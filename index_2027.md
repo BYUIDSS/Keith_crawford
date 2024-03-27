@@ -6,8 +6,9 @@ title: Keith Crawford's Resume
 Aspiring Computer Science Student
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="cra22033@byui.edu">datascience@by</a>
+| <a href="https://github.com/crawfordk99">My Github Account</a>
+  <a href="https://www.linkedin.com/in/kcjr3">My LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -52,8 +53,12 @@ __Service Missionary__, Tucson Arizona & Vancouver Canada
 
 ## Skills
 
-- Python (experience with plotly express, pandas, scikit-learn, and mySQL)
+- Python (experience with plotly express, pandas, scikit-learn)
 - Cuarto
+- HTML
+- CSS
+- C#
+- MySQL
 
 <!-- ### Footer
 
