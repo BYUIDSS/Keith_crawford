@@ -6,7 +6,7 @@ title: Brigham Young's Resume
 Aspiring Computer Science Student
 
 <div id="webaddress">
-<a href="cra22033@byui.edu">My Email</a>
+<a href="cra22033@byui.edu">cra22033@byui.edu</a>
 | <a href="https://github.com/crawfordk99">My Github Account</a>
   <a href="https://www.linkedin.com/in/kcjr3">My LinkedIn</a>
 </div>
