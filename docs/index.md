@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Keith Crawford's Resume
 ---
 # Keith Crawford
 Aspiring Computer Science Student
@@ -19,7 +19,8 @@ Aspiring Computer Science Student
 `Expected 2026`
 __Brigham Young University-Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- BS in Computer Science 
+- 4.0 GPA
 
 `2013-2017`
 __Warren Township High School__, Gurnee, IL
@@ -37,14 +38,12 @@ __Ironwood Insights Group__, Interviewer
 - Conducted unbiased surveys ranging from 2-25 minutes
 - Entered responses to computer verbatim
 
-### Delivery Driver
+## Service and Work History
 
 `August 2023 - December 2023`
 __360 Logistics LLC__, Delivery Driver
 
 - Delivered 250-300 packages daily
-
-## Service and Work History
 
 `2020-2022`
 __Service Missionary__, Tucson Arizona & Vancouver Canada
@@ -64,5 +63,4 @@ __Service Missionary__, Tucson Arizona & Vancouver Canada
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
 
